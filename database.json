@@ -1,0 +1,64 @@
+{
+  "jogos": [
+    {
+      "id": 1,
+      "nome": "Dark Souls",
+      "img": "https://codetheworld.io/wp-content/uploads/2023/12/Dark-Souls.png",
+      "preco": 320
+    },
+    {
+      "id": 2,
+      "nome": "Far Cry 8",
+      "img": "https://codetheworld.io/wp-content/uploads/2023/12/Far-Cry-4.png",
+      "preco": 80
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "nome": "The legend of Zelda",
+      "img": "https://codetheworld.io/wp-content/uploads/2023/12/Dark-Souls.png",
+      "preco": 100,
+      "id": 5
+    },
+    {
+      "nome": "The legend of Zelda",
+      "img": "https://codetheworld.io/wp-content/uploads/2023/12/Dark-Souls.png",
+      "preco": 100,
+      "id": 6
+    },
+    {
+      "nome": "The legend of Zelda",
+      "img": "https://codetheworld.io/wp-content/uploads/2023/12/Dark-Souls.png",
+      "preco": 100,
+      "id": 7
+    },
+    {
+      "nome": "The legend of Zelda",
+      "img": "https://codetheworld.io/wp-content/uploads/2023/12/Dark-Souls.png",
+      "preco": 100,
+      "id": 8
+    },
+    {
+      "nome": "The legend of Zelda",
+      "img": "https://codetheworld.io/wp-content/uploads/2023/12/Dark-Souls.png",
+      "preco": 100,
+      "id": 9
+    },
+    {
+      "nome": "The legend of Zelda",
+      "img": "https://codetheworld.io/wp-content/uploads/2023/12/Dark-Souls.png",
+      "preco": 100,
+      "id": 10
+    },
+    {
+      "nome": "The legend of Zelda",
+      "img": "https://codetheworld.io/wp-content/uploads/2023/12/Dark-Souls.png",
+      "preco": 100,
+      "id": 11
+    }
+  ]
+}
