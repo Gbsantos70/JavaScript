@@ -1,6 +1,5 @@
-import { getAllGames } from "./service";
+import { getAllGames } from "./service.js";
 
-var URL = "http://localhost:3000/jogos";
 
 window.onload = () => {
   loadGames();
@@ -8,14 +7,11 @@ window.onload = () => {
 
 const loadGames = () => {
  console.log('>>>')
-  const dataContainer = 
-  document.getElementById("data-container");
+  const dataContainer = document.getElementById("data-container");
   getAllGames().then(resp => {
     resp.forEach(game => {
-      const gamesElement = 
-      document.createElement('div');
-      gamesElement.innerHTML = 
-      `<strong>${game.nome}</strong><p>${game.preco}</p>`;
+      const gamesElement = document.createElement('div');
+      gamesElement.innerHTML = `<strong>${game.nome}</strong><p>${game.preco}</p>`;
       dataContainer.appendChild(gamesElement);
     });
   })

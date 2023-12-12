@@ -1,4 +1,5 @@
 import {handleErrors} from "./exception.js";
+var URL = "http://localhost:3000/jogos";
 
 export const getAllGames = async () => {
     try {
